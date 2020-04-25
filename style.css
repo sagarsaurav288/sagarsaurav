@@ -1,0 +1,52 @@
+body
+{
+	margin:0;
+	padding:0;
+	background:white;
+}
+h1
+{
+	 color:white;
+	 text-transform:capitalize;
+}
+.one
+{
+	height:100px;
+	width:100px;
+	background:#000000;
+}
+.two
+{
+	height:100px;
+	width:100px;
+	background:blue;
+}
+.three
+{
+	height:100px;
+	width:100px;
+	background:green;
+}
+.four
+{
+	height:100px;
+	width:100px;
+	background:yellow;
+	
+}
+.five
+{
+	height:100px;
+	width:100px;
+	background:brown;
+	
+}
+.main
+{
+	
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	min-height:100vh;
+
+}
